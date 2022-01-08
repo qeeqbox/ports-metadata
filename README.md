@@ -3,10 +3,10 @@
 #### Structure
 ```js
 {
-    "p": 21,
-    "t": "tcp/udp",
-    "s": "ftp",
-    "n": "file transfer [control]"
+    "port": 21,
+    "type": "tcp/udp",
+    "service": "ftp",
+    "info": "file transfer [control]"
 }
 ```
 #### Resources
